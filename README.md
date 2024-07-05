@@ -26,4 +26,4 @@ Chai
 Machine Learning & Data Visualization  
 
 ## Connect with Me
-📧 abrhamwube1@gmail.com | 🌐 [Personal Portfolio](https://portfolio.abrshewube.tech/) | 💼 [LinkedIn](https://www.linkedin.com/in/abrham-wube-148a12247/) | 🐙 [GitHub](https://github.com/abrshewube/)
+📧 abrhamwube1@gmail.com | 🌐 [Personal Portfolio](https://abrham-wube-portfolios.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/abrham-wube-148a12247/) | 🐙 [GitHub](https://github.com/abrshewube/)
