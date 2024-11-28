@@ -90,73 +90,143 @@ With over 5 years of experience in software development, I specialize in buildin
 </table>
 </div>
 
-## 🎯 Side Projects
+## 🎯 Open Source Projects
 
-### 🤖 AI & Machine Learning
+### 🤖 Machine Learning & AI
 <div align="center">
 <table>
 <tr>
 <td width="33%">
-<h3>🤖 AI Customer Care</h3>
-<p>Intelligent chatbot system with natural language processing capabilities.</p>
+<h3>📝 Handwritten Digit Recognition</h3>
+<p>Deep learning model for recognizing handwritten digits using neural networks.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 </p>
+<p><a href="https://github.com/abrshewube/Deep-Learning-Handwritten-Digit-Recognition">View Project →</a></p>
 </td>
 <td width="33%">
-<h3>📊 Market Analyzer</h3>
-<p>Real-time stock market analysis tool using machine learning.</p>
+<h3>📧 Spam Email Classifier</h3>
+<p>ML-powered email classification system using NLP techniques.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
+<p><a href="https://github.com/abrshewube/Spam-Email-Classification">View Project →</a></p>
 </td>
 <td width="33%">
-<h3>🎯 Smart Recommendations</h3>
-<p>AI-powered product recommendation engine.</p>
+<h3>💬 Social Media Sentiment</h3>
+<p>Real-time sentiment analysis for social media content.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white" alt="NLTK"/>
 </p>
+<p><a href="https://github.com/abrshewube/Social-Media-Sentiment-Analysis">View Project →</a></p>
 </td>
 </tr>
 </table>
 </div>
 
-### 🌐 Web Applications
+### 🌐 .NET Applications
 <div align="center">
 <table>
 <tr>
 <td width="33%">
-<h3>📚 EduTech Platform</h3>
-<p>Interactive learning management system with real-time collaboration.</p>
+<h3>📝 Blog Platform</h3>
+<p>Feature-rich blogging platform built with ASP.NET Core.</p>
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+</p>
+<p><a href="https://github.com/abrshewube/Blog_Website_Using-AS.NET-Core">View Project →</a></p>
+</td>
+<td width="33%">
+<h3>🛒 E-commerce Platform</h3>
+<p>Complete e-commerce solution with ASP.NET Core.</p>
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+</p>
+<p><a href="https://github.com/abrshewube/Ecommerce-Website-Using-ASP.NET-Coree-">View Project →</a></p>
+</td>
+<td width="33%">
+<h3>✅ Task Manager</h3>
+<p>Task management system using ASP.NET MVC.</p>
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+<p><a href="https://github.com/abrshewube/Task-Management-System-Project-Using-Asp.Net-MVC">View Project →</a></p>
+</td>
+</tr>
+</table>
+</div>
+
+### 🌱 Spring Boot Applications
+<div align="center">
+<table>
+<tr>
+<td width="33%">
+<h3>📋 Task Manager API</h3>
+<p>RESTful API for task management using Spring Boot.</p>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+<p><a href="https://github.com/abrshewube/TASK-MANAGER-SPRING-BOOT">View Project →</a></p>
+</td>
+<td width="33%">
+<h3>📚 E-Learning Platform</h3>
+<p>Educational platform backend with Spring Boot.</p>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+<p><a href="https://github.com/abrshewube/Elearning-Spring-Boot">View Project →</a></p>
+</td>
+<td width="33%">
+<h3>📝 Blog API</h3>
+<p>RESTful blog API with Spring Boot.</p>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="JPA"/>
+</p>
+<p><a href="https://github.com/abrshewube/spring-boot-blog-api-">View Project →</a></p>
+</td>
+</tr>
+</table>
+</div>
+
+### ⚛️ React Applications
+<div align="center">
+<table>
+<tr>
+<td width="33%">
+<h3>📝 Sticky Notes</h3>
+<p>Digital sticky notes app with React.</p>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
 </p>
+<p><a href="https://github.com/abrshewube/sticky_notes">View Project →</a></p>
 </td>
 <td width="33%">
-<h3>🎨 Design Portfolio</h3>
-<p>Dynamic portfolio showcase with 3D animations.</p>
+<h3>📚 Dictionary App</h3>
+<p>English dictionary application with React.</p>
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/API-FF5722?style=flat-square&logo=json&logoColor=white" alt="API"/>
 </p>
+<p><a href="https://github.com/abrshewube/English_Dictionary">View Project →</a></p>
 </td>
 <td width="33%">
-<h3>📱 Social Platform</h3>
-<p>Feature-rich social networking application.</p>
+<h3>📄 Resume Builder</h3>
+<p>Interactive resume builder application.</p>
 <p>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" alt="Material UI"/>
 </p>
+<p><a href="https://github.com/abrshewube/Resume_Builder">View Project →</a></p>
 </td>
 </tr>
 </table>
