@@ -51,71 +51,115 @@ With over 5 years of experience in software development, I specialize in buildin
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
 </p>
 
-## 💼 Featured Projects
+## 💼 Professional Projects
 
 <div align="center">
-
 <table>
 <tr>
 <td width="33%">
 <h3>🛒 Asbeza.com</h3>
-<p>Full-stack e-commerce platform with enhanced performance and custom features.</p>
+<p>Full-stack e-commerce platform revolutionizing online shopping in Ethiopia.</p>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 <p><a href="https://asbeza.net/">View Project →</a></p>
 </td>
 <td width="33%">
 <h3>✈️ Brilliant Ethiopia</h3>
-<p>Multi-language travel platform with enhanced SEO and CMS capabilities.</p>
+<p>Award-winning travel platform showcasing Ethiopia's tourism potential.</p>
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 <p><a href="https://www.brilliant-ethiopia.com/">View Project →</a></p>
 </td>
 <td width="33%">
 <h3>💊 Medanit</h3>
-<p>Medical services platform connecting users with healthcare providers.</p>
+<p>Revolutionary healthcare platform connecting patients with medical services.</p>
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 <p><a href="https://www.medanit.com/">View Project →</a></p>
 </td>
 </tr>
+</table>
+</div>
+
+## 🎯 Side Projects
+
+### 🤖 AI & Machine Learning
+<div align="center">
+<table>
 <tr>
 <td width="33%">
-<h3>🌍 Enat Ethio Travel</h3>
-<p>Modern tour and travel platform with comprehensive booking system.</p>
+<h3>🤖 AI Customer Care</h3>
+<p>Intelligent chatbot system with natural language processing capabilities.</p>
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 </p>
-<p><a href="https://www.enatethiotravel.com/">View Project →</a></p>
 </td>
 <td width="33%">
-<h3>🎓 Easy Scholarship</h3>
-<p>Scholarship resource platform with advanced search capabilities.</p>
+<h3>📊 Market Analyzer</h3>
+<p>Real-time stock market analysis tool using machine learning.</p>
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
-<p><a href="https://www.easy-scholarship.com/">View Project →</a></p>
 </td>
 <td width="33%">
-<h3>🎫 Megenagna</h3>
-<p>Event management platform with ticket purchasing system.</p>
+<h3>🎯 Smart Recommendations</h3>
+<p>AI-powered product recommendation engine.</p>
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
-<p><a href="https://megenagna.com/">View Project →</a></p>
 </td>
 </tr>
 </table>
+</div>
 
+### 🌐 Web Applications
+<div align="center">
+<table>
+<tr>
+<td width="33%">
+<h3>📚 EduTech Platform</h3>
+<p>Interactive learning management system with real-time collaboration.</p>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io"/>
+</p>
+</td>
+<td width="33%">
+<h3>🎨 Design Portfolio</h3>
+<p>Dynamic portfolio showcase with 3D animations.</p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
+</td>
+<td width="33%">
+<h3>📱 Social Platform</h3>
+<p>Feature-rich social networking application.</p>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+</td>
+</tr>
+</table>
 </div>
 
 ## 📈 GitHub Stats
