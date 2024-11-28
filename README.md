@@ -85,43 +85,116 @@
 - 🌐 **International Experience**: Worked with teams across USA, UAE, and Ethiopia
 - 📊 **Data Analysis**: Implemented predictive analytics solutions for educational institutions
 - 🚀 **Tech Leadership**: Led multiple full-stack development teams across various projects
-
 ## 💼 Featured Projects
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 20px; margin: 20px 0;">
-  <div style="flex: 1; background: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3>🎫 Megenagna.com</h3>
-    <p><strong>Event Management Platform</strong></p>
-    <ul>
-      <li>Real-time ticket processing</li>
-      <li>ML-powered event recommendations</li>
-      <li>Secure payment gateway integration</li>
-    </ul>
-    <p><em>Tech: Angular, Spring Boot, ML</em></p>
+<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; padding: 20px;">
+  <!-- Asbeza.com -->
+  <div style="background: linear-gradient(135deg, #1a1b27, #2a2b37); border-radius: 16px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+    <img src="asbe" alt="Asbeza.com" style="width: 100%; height: 200px; object-fit: cover;"/>
+    <div style="padding: 20px;">
+      <h3 style="color: #fff; margin: 0 0 10px 0;">🛒 Asbeza.com</h3>
+      <p style="color: #a0a0a0; font-size: 0.9em; line-height: 1.5;">
+        Full-stack e-commerce platform with enhanced performance, custom features, and optimized UI/UX.
+      </p>
+      <div style="margin-top: 15px;">
+        <span style="background: #2d2d3d; padding: 4px 8px; border-radius: 4px; font-size: 0.8em; color: #64ffda;">React</span>
+        <span style="background: #2d2d3d; padding: 4px 8px; border-radius: 4px; font-size: 0.8em; color: #64ffda; margin-left: 8px;">Node.js</span>
+      </div>
+      <div style="margin-top: 15px;">
+        <a href="https://asbeza.net/" style="color: #64ffda; text-decoration: none; font-size: 0.9em;">🔗 Live Demo</a>
+      </div>
+    </div>
   </div>
 
-  <div style="flex: 1; background: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3>🛒 Asbeza</h3>
-    <p><strong>E-commerce Platform</strong></p>
-    <ul>
-      <li>AI-powered product recommendations</li>
-      <li>Real-time inventory management</li>
-      <li>Advanced analytics dashboard</li>
-    </ul>
-    <p><em>Tech: React, Node.js, MongoDB</em></p>
+  <!-- Brilliant Ethiopia -->
+  <div style="background: linear-gradient(135deg, #1a1b27, #2a2b37); border-radius: 16px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+    <img src="brilliant" alt="Brilliant Ethiopia" style="width: 100%; height: 200px; object-fit: cover;"/>
+    <div style="padding: 20px;">
+      <h3 style="color: #fff; margin: 0 0 10px 0;">✈️ Brilliant Ethiopia</h3>
+      <p style="color: #a0a0a0; font-size: 0.9em; line-height: 1.5;">
+        Multi-language travel platform with enhanced SEO and comprehensive content management system.
+      </p>
+      <div style="margin-top: 15px;">
+        <span style="background: #2d2d3d; padding: 4px 8px; border-radius: 4px; font-size: 0.8em; color: #64ffda;">Angular</span>
+        <span style="background: #2d2d3d; padding: 4px 8px; border-radius: 4px; font-size: 0.8em; color: #64ffda; margin-left: 8px;">.NET</span>
+      </div>
+      <div style="margin-top: 15px;">
+        <a href="https://www.brilliant-ethiopia.com/" style="color: #64ffda; text-decoration: none; font-size: 0.9em;">🔗 Live Demo</a>
+      </div>
+    </div>
   </div>
 
-  <div style="flex: 1; background: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3>✈️ Brilliant Ethiopia</h3>
-    <p><strong>Travel Platform</strong></p>
-    <ul>
-      <li>Multi-language support</li>
-      <li>AI-powered travel recommendations</li>
-      <li>Dynamic content management</li>
-    </ul>
-    <p><em>Tech: Angular, .NET, PostgreSQL</em></p>
+  <!-- Medanit -->
+  <div style="background: linear-gradient(135deg, #1a1b27, #2a2b37); border-radius: 16px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+    <img src="medi" alt="Medanit" style="width: 100%; height: 200px; object-fit: cover;"/>
+    <div style="padding: 20px;">
+      <h3 style="color: #fff; margin: 0 0 10px 0;">💊 Medanit</h3>
+      <p style="color: #a0a0a0; font-size: 0.9em; line-height: 1.5;">
+        Comprehensive medical services platform connecting users with hospitals and healthcare providers.
+      </p>
+      <div style="margin-top: 15px;">
+        <span style="background: #2d2d3d; padding: 4px 8px; border-radius: 4px; font-size: 0.8em; color: #64ffda;">MERN Stack</span>
+      </div>
+      <div style="margin-top: 15px;">
+        <a href="https://www.medanit.com/" style="color: #64ffda; text-decoration: none; font-size: 0.9em;">🔗 Live Demo</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Enat Ethio Travel -->
+  <div style="background: linear-gradient(135deg, #1a1b27, #2a2b37); border-radius: 16px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+    <img src="enat" alt="Enat Ethio Travel" style="width: 100%; height: 200px; object-fit: cover;"/>
+    <div style="padding: 20px;">
+      <h3 style="color: #fff; margin: 0 0 10px 0;">🌍 Enat Ethio Travel</h3>
+      <p style="color: #a0a0a0; font-size: 0.9em; line-height: 1.5;">
+        Modern tour and travel platform built with the MERN stack, offering comprehensive travel services.
+      </p>
+      <div style="margin-top: 15px;">
+        <span style="background: #2d2d3d; padding: 4px 8px; border-radius: 4px; font-size: 0.8em; color: #64ffda;">MERN Stack</span>
+      </div>
+      <div style="margin-top: 15px;">
+        <a href="https://www.enatethiotravel.com/" style="color: #64ffda; text-decoration: none; font-size: 0.9em;">🔗 Live Demo</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Easy Scholarship -->
+  <div style="background: linear-gradient(135deg, #1a1b27, #2a2b37); border-radius: 16px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+    <img src="easy" alt="Easy Scholarship" style="width: 100%; height: 200px; object-fit: cover;"/>
+    <div style="padding: 20px;">
+      <h3 style="color: #fff; margin: 0 0 10px 0;">🎓 Easy Scholarship</h3>
+      <p style="color: #a0a0a0; font-size: 0.9em; line-height: 1.5;">
+        Scholarship resource platform helping students find educational opportunities worldwide.
+      </p>
+      <div style="margin-top: 15px;">
+        <span style="background: #2d2d3d; padding: 4px 8px; border-radius: 4px; font-size: 0.8em; color: #64ffda;">Angular</span>
+        <span style="background: #2d2d3d; padding: 4px 8px; border-radius: 4px; font-size: 0.8em; color: #64ffda; margin-left: 8px;">Nest.js</span>
+      </div>
+      <div style="margin-top: 15px;">
+        <a href="https://www.easy-scholarship.com/" style="color: #64ffda; text-decoration: none; font-size: 0.9em;">🔗 Live Demo</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Megenagna -->
+  <div style="background: linear-gradient(135deg, #1a1b27, #2a2b37); border-radius: 16px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+    <img src="mege" alt="Megenagna" style="width: 100%; height: 200px; object-fit: cover;"/>
+    <div style="padding: 20px;">
+      <h3 style="color: #fff; margin: 0 0 10px 0;">🎫 Megenagna</h3>
+      <p style="color: #a0a0a0; font-size: 0.9em; line-height: 1.5;">
+        Event management platform with ticket purchasing and attendance tracking capabilities.
+      </p>
+      <div style="margin-top: 15px;">
+        <span style="background: #2d2d3d; padding: 4px 8px; border-radius: 4px; font-size: 0.8em; color: #64ffda;">Angular</span>
+        <span style="background: #2d2d3d; padding: 4px 8px; border-radius: 4px; font-size: 0.8em; color: #64ffda; margin-left: 8px;">Spring Boot</span>
+      </div>
+      <div style="margin-top: 15px;">
+        <a href="https://megenagna.com/" style="color: #64ffda; text-decoration: none; font-size: 0.9em;">🔗 Live Demo</a>
+      </div>
+    </div>
   </div>
 </div>
+
 
 ## 🤝 Let's Connect!
 
