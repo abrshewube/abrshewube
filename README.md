@@ -33,7 +33,9 @@ With over 5 years of experience in software development, I specialize in buildin
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
+
 
 ### Databases & ORM
 <p align="left">
@@ -90,7 +92,7 @@ With over 5 years of experience in software development, I specialize in buildin
 </table>
 </div>
 
-## 🎯 Open Source Projects
+## 🎯 Side Projects
 
 ### 🤖 Machine Learning & AI
 <div align="center">
