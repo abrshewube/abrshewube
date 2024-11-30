@@ -234,11 +234,6 @@ With over 5 years of experience in software development, I specialize in buildin
 </table>
 </div>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrshewube&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
 
 ## 📫 Let's Connect!
 
