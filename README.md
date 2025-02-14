@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:abrhamwube1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://abrham-wube-portfolios.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=react" alt="Portfolio" /></a>
+  <a href="https://abrham-wube-gobezie.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=react" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/abrham-wube-148a12247/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://github.com/abrshewube/"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
