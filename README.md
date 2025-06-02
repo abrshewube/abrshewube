@@ -52,39 +52,8 @@ With over 5 years of experience in software development, I specialize in buildin
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 </p>
 
----
 
-## 💼 Professional Experience
 
-### **Senior Full Stack Developer (.NET Core)** | Farka ICT | Oct 2022 - Sep 2024
-- Led the development of a **curriculum management system** for Addis Ababa University, enabling efficient module comparisons across departments using advanced algorithms.
-- Specialized in backend development using **.NET Core** and **.NET MVC**, delivering secure, high-performance APIs and robust database integrations with **Entity Framework Core**.
-- Implemented **gRPC services** for fast, efficient communication between microservices, enhancing system scalability and performance.
-
-### **.NET Core Developer** | Black Fox Studio, LLC | Remote | July 2022 - Mar 2023
-- Developed scalable web applications using **.NET Core** for 3D visuals and animations.
-- Optimized application performance, implemented **RESTful APIs**, and enhanced user experiences.
-- Collaborated with designers and animators to integrate backend services into production pipelines.
-
-### **Senior Backend Engineer (.NET Core & Spring Boot)** | Tria Print Trading LLC | Remote | Jan 2022 - Apr 2022
-- Engineered dynamic **RESTful APIs** and a client dashboard for streamlined sport field management.
-- Deployed applications on cloud platforms such as **Azure** and **AWS**, leveraging cloud services to enhance performance and reliability.
-- Created comprehensive API documentation using **Swagger/OpenAPI** and conducted rigorous backend testing with tools like **Postman** and **JUnit**.
-
-### **Full Stack Angular & Spring Boot Developer** | Hapo Tech | Remote | Jul 2021 - Feb 2022
-- Designed and managed relational databases using **PostgreSQL** and **MySQL**, ensuring seamless integration with **Spring Boot** applications.
-- Automated build and deployment processes with **Jenkins** and **GitLab CI/CD pipelines**, ensuring rapid and reliable delivery of backend services.
-- Designed and deployed scalable **RESTful APIs**, ensuring high availability and performance under varying workloads.
-
-### **Angular & .NET Core Developer** | Tria | Remote | Feb 2019 - May 2020
-- Built dynamic and responsive web applications using **Angular** for front-end development and **.NET Core** for backend functionality.
-- Designed and implemented **RESTful APIs** using **ASP.NET Core**, ensuring efficient communication between frontend and backend systems.
-- Optimized application performance by analyzing and resolving bottlenecks in both frontend and backend components.
-
----
-
-## 🎓 Education
-- **Addis Ababa University** | BSc in Software Engineering | 2015 - 2019
 
 ---
 
