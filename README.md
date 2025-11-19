@@ -3,7 +3,7 @@
 
 # 👋 Hello, I'm Abrham Wube
 
-**Backend & Full Stack Developer | .NET Core | Node.js | Learning Elixir**
+**Backend & Full Stack Developer | .NET Core | Node.js | Elixir Developer**
 
 [![Email](https://img.shields.io/badge/Email-abrhamwube1@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:abrhamwube1@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B251935301992-green?style=for-the-badge&logo=whatsapp)](tel:+251935301992)
@@ -14,9 +14,9 @@
 
 ## 🧑‍💻 About Me
 
-I build strong backend systems and clean frontend apps. I have 5+ years of experience making systems that can grow and work well.
+I build backend systems and full web apps. I have 5+ years of experience making systems that can grow and work well.
 
-**Right now I'm learning Elixir and Phoenix** - I like how they handle many tasks at once and are very reliable.
+**I build and publish Elixir packages** - creating tools that help other developers.
 
 ---
 
@@ -31,33 +31,61 @@ I build strong backend systems and clean frontend apps. I have 5+ years of exper
 
 ---
 
-## 🛠️ What I Work With
+## 🛠️ My Skills
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 
 ### **Backend**
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs)
+![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vuedotjs)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-### **Tools & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean)
 
-### **Learning Now**
+### **AI & ML**
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-4ECDC4?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-45B7D1?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB-96CEB4?style=for-the-badge)
+
+### **Elixir Ecosystem**
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir)
 ![Phoenix](https://img.shields.io/badge/Phoenix-F15524?style=for-the-badge&logo=elixir)
+![Hex](https://img.shields.io/badge/Hex_Packages-FF6B6B?style=for-the-badge)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
 
 ---
 
@@ -65,21 +93,33 @@ I build strong backend systems and clean frontend apps. I have 5+ years of exper
 
 - Build backend systems and APIs
 - Create full web apps from start to finish
-- Make databases fast and work well
-- Learn and build with Elixir
 - Work with AI tools and systems
+- Build and publish Elixir packages
+- Deploy apps to cloud platforms
 
 ---
 
-##  My Elixir Journey
+## 🚀 My Elixir Packages
 
-I started learning Elixir because I like how it works. It's different from other languages I know.
+### **ExJoi** - v0.8.0
+**95+ Downloads** | A Joi-inspired validation library for Elixir
+[![Hex.pm](https://img.shields.io/badge/View_on_Hex-FF6B6B?style=for-the-badge)](https://hex.pm/packages/exjoi)
 
-**What I'm doing with Elixir:**
-- Making small projects to learn
-- Building open-source code
-- Learning to make real-time apps
-- Understanding how it handles many tasks
+### **PyraUI** - v0.1.2  
+**75+ Downloads** | PyraUI is a Phoenix LiveView component library
+[![Hex.pm](https://img.shields.io/badge/View_on_Hex-FF6B6B?style=for-the-badge)](https://hex.pm/packages/pyraui)
+
+---
+
+## 🌱 My Elixir Work
+
+I build Elixir packages to help the community and learn more about the language.
+
+**What I'm building:**
+- Validation libraries like ExJoi
+- UI components for Phoenix LiveView
+- Open source tools for developers
+- Learning advanced Elixir patterns
 
 ---
 
@@ -90,5 +130,3 @@ I started learning Elixir because I like how it works. It's different from other
  **Email:** abrhamwube1@gmail.com  
 
 </div>
-
-
