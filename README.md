@@ -19,14 +19,10 @@ Backend-focused full-stack developer with 5+ years of experience building scalab
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrshewube&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrshewube&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrshewube&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 </div>
 
