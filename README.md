@@ -12,11 +12,12 @@
 
 ---
 
+
 ## 🧑‍💻 About Me
 
-I build backend systems and full web apps. I have 5+ years of experience making systems that can grow and work well.
+I’m a **backend-focused full-stack developer** with over 5 years of experience. I mainly work with **.NET Core and Node.js**, and I also build full web apps using **React and Angular**.
 
-**I build and publish Elixir packages** - creating tools that help other developers.
+I enjoy building systems that actually work well in real life — clean, scalable, and easy to maintain. In my free time, I build and publish **Elixir packages** to solve problems I run into and to help other developers.
 
 ---
 
@@ -102,11 +103,11 @@ I build backend systems and full web apps. I have 5+ years of experience making 
 ## 🚀 My Elixir Packages
 
 ### **ExJoi** - v0.8.0
-**95+ Downloads** | A Joi-inspired validation library for Elixir
+**218+ Downloads** | A Joi-inspired validation library for Elixir
 [![Hex.pm](https://img.shields.io/badge/View_on_Hex-FF6B6B?style=for-the-badge)](https://hex.pm/packages/exjoi)
 
 ### **PyraUI** - v0.1.2  
-**75+ Downloads** | PyraUI is a Phoenix LiveView component library
+**100+ Downloads** | PyraUI is a Phoenix LiveView component library
 [![Hex.pm](https://img.shields.io/badge/View_on_Hex-FF6B6B?style=for-the-badge)](https://hex.pm/packages/pyraui)
 
 ---
@@ -130,3 +131,4 @@ I build Elixir packages to help the community and learn more about the language.
  **Email:** abrhamwube1@gmail.com  
 
 </div>
+
