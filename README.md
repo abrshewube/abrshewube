@@ -13,28 +13,15 @@
 
 ---
 
-<div align="center">
+## About Me
 
-## 👨‍💻 About Me
-
-</div>
-
-<div align="center">
-
-```diff
-+ Backend-focused full-stack developer with 5+ years of experience
-+ Building scalable systems with .NET Core and Node.js
-+ Creating full web applications using React and Angular
-+ Publishing Elixir packages to solve real-world problems
-```
-
-</div>
+I'm a backend-focused full-stack developer with over 5 years of experience building scalable systems with **.NET Core** and **Node.js**. I create full web applications using **React** and **Angular**, and publish **Elixir packages** to solve real-world problems.
 
 ---
 
 <div align="center">
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrshewube&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true) -->
+ 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrshewube&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abrshewube&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true)
@@ -189,14 +176,7 @@
 
 **Feel free to reach out if you want to collaborate or discuss tech!**
 
-![Visitor Count](https://profile-counter.glitch.me/abrshewube/count.svg)
 
 </div>
 
 ---
-
-<div align="center">
-
-### ⚡ **Code is Poetry, Build Something Amazing** ⚡
-
-</div>
