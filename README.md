@@ -21,8 +21,7 @@ I'm a backend-focused full-stack developer with over 5 years of experience build
 
 <div align="center">
 
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrshewube&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abrshewube&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abrshewube&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true)
 
