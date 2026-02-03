@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Abrham G;Backend+Heavy+Full+Stack+Developer;.NET+Core+%7C+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Abrham ;Backend+Heavy+Full+Stack+Developer;.NET+Core+%7C+Node.js" alt="Typing SVG" />
 
 **Building scalable systems and amazing applications**
 
@@ -147,6 +147,7 @@ I'm a backend-focused full-stack developer with over 5 years of experience build
 </div>
 
 ---
+
 
 
 
