@@ -120,12 +120,14 @@ I'm a backend-focused full-stack developer with over 5 years of experience build
 
 <div align="center">
 
-| 🏗️ | 🎯 | 🧠  | ☁️ |
-|:---:|:---:|:---:|:---:|:---:|
-| **Backend Systems** | **Full Web Apps** | **AI Integration**  | **Cloud Deployment** |
+| 🏗️ | 🎯 | 🧠 | ☁️ |
+|:---:|:---:|:---:|:---:|
+| **Backend Systems** | **Full Web Apps** | **AI Integration** | **Cloud Deployment** |
 | APIs & Microservices | React & Angular | LLMs & RAG | AWS & DigitalOcean |
 
 </div>
+
+
 
 
 
@@ -145,6 +147,7 @@ I'm a backend-focused full-stack developer with over 5 years of experience build
 </div>
 
 ---
+
 
 
 
