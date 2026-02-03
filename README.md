@@ -53,7 +53,6 @@ I'm a backend-focused full-stack developer with over 5 years of experience build
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Phoenix](https://img.shields.io/badge/Phoenix-F15524?style=for-the-badge&logo=elixir&logoColor=white)
 
 </div>
 
@@ -146,6 +145,7 @@ I'm a backend-focused full-stack developer with over 5 years of experience build
 </div>
 
 ---
+
 
 
 
