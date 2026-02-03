@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a backend-focused full-stack developer with over 5 years of experience building scalable systems with **.NET Core** and **Node.js**. I create full web applications using **React** and **Angular**, and publish **Elixir packages** to solve real-world problems.
+I'm a backend-focused full-stack developer with over 5 years of experience building scalable systems with **.NET Core** and **Node.js**. I create full web applications using **React** and **Angular* to solve real-world problems.
 
 ---
 
@@ -43,7 +43,6 @@ I'm a backend-focused full-stack developer with over 5 years of experience build
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
 </div>
 
@@ -53,8 +52,6 @@ I'm a backend-focused full-stack developer with over 5 years of experience build
 
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-F15524?style=for-the-badge&logo=elixir&logoColor=white)
 
@@ -66,9 +63,6 @@ I'm a backend-focused full-stack developer with over 5 years of experience build
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
@@ -129,38 +123,12 @@ I'm a backend-focused full-stack developer with over 5 years of experience build
 
 | 🏗️ | 🎯 | 🧠 | 📦 | ☁️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Backend Systems** | **Full Web Apps** | **AI Integration** | **Elixir Packages** | **Cloud Deployment** |
-| APIs & Microservices | React & Angular | LLMs & RAG | Published on Hex | AWS & DigitalOcean |
+| **Backend Systems** | **Full Web Apps** | **AI Integration**  | **Cloud Deployment** |
+| APIs & Microservices | React & Angular | LLMs & RAG | AWS & DigitalOcean |
 
 </div>
 
----
 
-<div align="center">
-
-## 🚀 Elixir Packages
-
-</div>
-
-<div align="center">
-
-### **ExJoi** - v0.8.0
-
-**📥 218+ Downloads** | A Joi-inspired validation library for Elixir
-
-[![Hex.pm](https://img.shields.io/badge/View_on_Hex-FF6B6B?style=for-the-badge&logo=hex&logoColor=white)](https://hex.pm/packages/exjoi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrshewube/exjoi)
-
----
-
-### **PyraUI** - v0.1.2
-
-**📥 100+ Downloads** | Phoenix LiveView component library
-
-[![Hex.pm](https://img.shields.io/badge/View_on_Hex-FF6B6B?style=for-the-badge&logo=hex&logoColor=white)](https://hex.pm/packages/pyraui)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrshewube/pyraui)
-
-</div>
 
 ---
 
@@ -178,5 +146,6 @@ I'm a backend-focused full-stack developer with over 5 years of experience build
 </div>
 
 ---
+
 
 
