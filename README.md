@@ -143,7 +143,7 @@ I always try to learn new technologies and improve my skills. I love solving pro
 
 <div align="center">
 
-## 🌟 Let's Connect!
+## Let's Connect!
 
 </div>
 
@@ -155,6 +155,7 @@ I always try to learn new technologies and improve my skills. I love solving pro
 </div>
 
 ---
+
 
 
 
