@@ -17,7 +17,13 @@
 
 ## About Me
 
-I'm a backend-focused full-stack developer with over 5 years of experience building scalable systems with **.NET Core** and **Node.js**. I create full web applications using **React** and **Angular** to solve real-world problems.
+I am a backend-focused full-stack developer. I have more than 5 years of experience building web applications and systems.
+
+I mainly work with **.NET Core** and **Node.js** to build fast, secure, and scalable backend services. I like writing clean code and creating strong APIs that work well with frontend apps.
+
+On the frontend side, I use **React** and **Angular** to build modern and user-friendly interfaces. I enjoy turning ideas into real products that people can use.
+
+I always try to learn new technologies and improve my skills. I love solving problems, working on real projects, and building software that makes life easier.
 
 ---
 
@@ -149,6 +155,7 @@ I'm a backend-focused full-stack developer with over 5 years of experience build
 </div>
 
 ---
+
 
 
 
